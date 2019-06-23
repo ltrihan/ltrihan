@@ -55,7 +55,10 @@ b, strong {
   margin-top: 24px;
 }
 
-
+.construction a {
+  color: black;
+  text-decoration: underline;
+}
 
 @media (max-width: 960px) {
 /*  For a screen < 960px, this CSS will be read */
