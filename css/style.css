@@ -4,6 +4,9 @@
 /* Fontawesome */
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
 
+/* Devicon */
+@import url('https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css');
+
 /* Components */
 @import "components/buttons.css";
 @import "components/footer.css";
