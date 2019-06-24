@@ -9,6 +9,7 @@
 @import "components/footer.css";
 @import "components/navbar.css";
 @import "components/banner.css";
+@import "components/logos.css";
 
 body {
   margin: 0;
@@ -59,6 +60,8 @@ b, strong {
   color: black;
   text-decoration: underline;
 }
+
+/********************** MEDIA QUERIES ********************/
 
 @media (max-width: 960px) {
 /*  For a screen < 960px, this CSS will be read */
