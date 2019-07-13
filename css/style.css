@@ -45,7 +45,7 @@ b, strong {
 .grow { transition: all .2s ease-in-out; }
 .grow:hover { transform: scale(1.1); }
 
-.development, .conception-production, .collaboration {
+.development-skills, .conception-production-skills, .collaboration-skills {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
