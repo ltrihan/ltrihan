@@ -13,6 +13,7 @@
 @import "components/navbar.css";
 @import "components/banner.css";
 @import "components/logos.css";
+@import "components/cards.css";
 
 body {
   margin: 0;
@@ -44,7 +45,10 @@ b, strong {
 .grow { transition: all .2s ease-in-out; }
 .grow:hover { transform: scale(1.1); }
 
-
+.development {
+  display: flex;
+  justify-content: space-around;
+}
 
 .construction {
   margin-top: 40px;
@@ -84,24 +88,3 @@ b, strong {
     width: 300px;
   }
 }
-
-
-/* .card {
-    width: 200px;
-    border-radius: 3px;
-    box-shadow: 0 0 5px rgb(230,230,230);
-    text-align: center;
-    padding: 20px;
-    border: 1px solid rgb(230,230,230);
-    background-color: white;
-}
-
-.card img {
-    height: 100px;
-}
-
-.cards {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 30px;
-} */
