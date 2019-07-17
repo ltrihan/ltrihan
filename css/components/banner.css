@@ -10,5 +10,4 @@
   flex-direction: column;  /* make main axis vertical */
   justify-content: center; /* center items vertically */
   align-items: center;     /* center items horizontally */
-  margin-bottom: 100px;
 }
