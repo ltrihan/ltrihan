@@ -51,23 +51,6 @@ b, strong {
   flex-wrap: wrap;
 }
 
-.construction {
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-
-.construction .fas {
-  font-size: 4em;
-}
-
-.construction p {
-  margin-top: 24px;
-}
-
-.construction a {
-  color: black;
-  text-decoration: underline;
-}
 
 /********************** MEDIA QUERIES ********************/
 
@@ -89,3 +72,25 @@ b, strong {
     width: 300px;
   }
 }
+
+/***
+
+.construction {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.construction .fas {
+  font-size: 4em;
+}
+
+.construction p {
+  margin-top: 24px;
+}
+
+.construction a {
+  color: black;
+  text-decoration: underline;
+}
+
+***/
