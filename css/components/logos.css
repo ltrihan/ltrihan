@@ -3,6 +3,8 @@
 }
 
 .img-logo-size {
+  margin-left: auto;
+  margin-right: auto;
   height: 48px;
   width: 48px;
 }
