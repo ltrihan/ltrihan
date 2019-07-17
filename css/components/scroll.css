@@ -1,4 +1,8 @@
 .scroll-downs {
+  position: absolute;
+/*  responsive center for absolute position, 17 for half size of the scroll */
+  left: calc(50% - 17px);
+  bottom: 40px;
   margin: auto;
   width :34px;
   height: 55px;
