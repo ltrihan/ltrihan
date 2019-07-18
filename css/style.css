@@ -46,6 +46,13 @@ b, strong {
 .development-skills, .conception-production-skills, .collaboration-skills {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+}
+
+.services {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 

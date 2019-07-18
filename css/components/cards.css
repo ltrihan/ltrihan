@@ -2,12 +2,32 @@
   width: 120px;
   height: 140px;
   background-color: white;
-  border: 1px solid grey;
-  display: flex;
+/*  border: 1px solid grey;
+*/  display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  margin-right: 2px;
-  margin-bottom: 2px;
+  margin-right: 16px;
+  margin-left: 16px;
+  margin-bottom: 8px;
   font-weight: bold;
   font-size: 1.1em;
+  box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 2px;
+}
+
+.card-service {
+  width: 300px;
+  height: 200px;
+  background-color: white;
+  margin: auto;
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.card-service img {
+  width: 240px;
 }
