@@ -15,15 +15,12 @@
 @import "components/logos.css";
 @import "components/cards.css";
 @import "components/scroll.css";
+@import "components/titles.css";
 
 body {
   margin: 0;
   font-family: Open Sans;
   background-color: #E2E1E0;
-}
-
-h1, h2, h3, h4 {
-  font-family: Poppins;
 }
 
 a {
@@ -40,7 +37,7 @@ a {
 }
 
 b, strong {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .grow { transition: all .2s ease-in-out; }
