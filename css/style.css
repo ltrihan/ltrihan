@@ -57,6 +57,10 @@ b, strong {
   margin-right: 24px;
 }
 
+.my-services {
+  background-color: grey;
+}
+
 .services {
   display: flex;
   flex-wrap: wrap;

@@ -20,7 +20,7 @@ h3 {
     left: 80px;
     right: 80px;
     height: 1px;
-    background: grey;
+    background: #E2E1E0;;
     position: absolute;
     top: calc(50% - 1px);
 }
