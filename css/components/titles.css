@@ -19,10 +19,10 @@ h3 {
     content: "";
     left: 80px;
     right: 80px;
-    height: 1px;
+    height: 2px;
     background: #E2E1E0;;
     position: absolute;
-    top: calc(50% - 1px);
+    top: calc(50% - 2px);
 }
 
 .section-title span {
