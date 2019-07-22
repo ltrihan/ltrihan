@@ -2,8 +2,7 @@
   width: 120px;
   height: 140px;
   background-color: white;
-/*  border: 1px solid grey;
-*/  display: flex;
+  display: flex;
   flex-direction: column;
   justify-content: space-evenly;
   margin-right: 16px;
