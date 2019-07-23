@@ -57,11 +57,15 @@ b, strong {
   margin-right: 24px;
 }
 
-.my-services {
-  background-color: grey;
+.skills, .services {
+  padding-top: 8px;
 }
 
 .services {
+  background-color: grey;
+}
+
+.services-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
