@@ -10,6 +10,11 @@ h3 {
   margin-bottom: 32px;
 }
 
+.services h4 {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
 .section-title {
     text-align: center;
     position: relative;
