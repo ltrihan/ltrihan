@@ -15,7 +15,7 @@
 }
 
 .card-service {
-  width: 304px;
+  width: 320px;
   height: 400px;
   background-color: white;
   margin-bottom: 16px;
@@ -31,5 +31,5 @@
 }
 
 .card-service img {
-  height: 160px;
+  width: 240px;
 }
