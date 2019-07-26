@@ -63,6 +63,7 @@ b, strong {
 
 .services {
   background-color: grey;
+  padding-bottom: 24px;
 }
 
 .services-list {
