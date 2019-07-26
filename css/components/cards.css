@@ -15,17 +15,21 @@
 }
 
 .card-service {
-  width: 320px;
+  width: 304px;
   height: 400px;
   background-color: white;
-  margin: auto;
   margin-bottom: 16px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
   box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
+.card-service h4 {
+  margin-top: 20px;
+}
+
 .card-service img {
-  width: 240px;
+  height: 160px;
 }

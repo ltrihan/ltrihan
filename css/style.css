@@ -69,9 +69,28 @@ b, strong {
 .services-list {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
+/********************** CONSTRUCTION ********************/
+
+.construction {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.construction .fas {
+  font-size: 4em;
+}
+
+.construction p {
+  margin-top: 24px;
+}
+
+.construction a {
+  color: black;
+  text-decoration: underline;
+}
 
 /********************** MEDIA QUERIES ********************/
 
