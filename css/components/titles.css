@@ -1,0 +1,39 @@
+h1, h2, h3, h4 {
+  font-family: Poppins;
+  margin-bottom: 24px;
+}
+
+h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.services h4 {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.section-title {
+    text-align: center;
+    position: relative;
+}
+
+.section-title:before {
+    content: "";
+    left: 80px;
+    right: 80px;
+    height: 2px;
+    background: white;
+    position: absolute;
+    top: calc(50% - 2px);
+}
+
+.section-title span {
+    display: inline-block;
+    padding: 0 32px;
+    background: white;
+    position: relative;
+    z-index: 1;
+}

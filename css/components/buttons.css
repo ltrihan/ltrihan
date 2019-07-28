@@ -5,16 +5,16 @@ text-decoration: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background: url(https://image.flaticon.com/icons/svg/1067/1067357.svg) no-repeat 18px 50% #3F4045;
+    background: url(https://image.flaticon.com/icons/svg/1067/1067357.svg) no-repeat 18px 50% #F7C262;
+    /* tester couleur #3F4045 */
     background-size: 41px 41px;
     border: 1px solid grey;
     border-radius: 5px;
-    color: #FFFFFF;
+    color: black;
     display: inline-block;
     font-size: 24px;
     padding: 12px 18px 12px 70px;
     transition: box-shadow .15s ease-out;
-
     font-family: "Lato", sans-serif;
   margin-top: 24px;
 }

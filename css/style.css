@@ -4,11 +4,18 @@
 /* Fontawesome */
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
 
+/* Devicon */
+@import url('https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css');
+
 /* Components */
 @import "components/buttons.css";
 @import "components/footer.css";
 @import "components/navbar.css";
 @import "components/banner.css";
+@import "components/logos.css";
+@import "components/cards.css";
+@import "components/scroll.css";
+@import "components/titles.css";
 
 body {
   margin: 0;
@@ -16,35 +23,68 @@ body {
   background-color: #E2E1E0;
 }
 
-h1, h2, h3, h4 {
-  font-family: Poppins;
-}
-
 a {
   text-decoration: none;
 }
 
-.container {
+.wrapper {
   width: 960px;
   margin: 0 auto;
 }
 
-.text-center {
-  text-align: center;
-}
-
 b, strong {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .grow { transition: all .2s ease-in-out; }
 .grow:hover { transform: scale(1.1); }
 
+.development-skills, .conception-production-skills, .collaboration-skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 
+#conception-production-skills-block, #collaboration-skills-block {
+  display: inline-block;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.skills {
+  padding-top: 8px;
+  padding-bottom: 24px;
+}
+
+.services {
+  background-color: grey;
+  padding-top: 8px;
+  padding-bottom: 32px;
+}
+
+.services-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.services p {
+  text-align: center;
+  color: grey;
+  padding: 0 10px;
+}
+
+.card-service:last-child p {
+  padding-bottom: 10px;
+}
+
+/********************** CONSTRUCTION ********************/
 
 .construction {
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 .construction .fas {
@@ -60,42 +100,29 @@ b, strong {
   text-decoration: underline;
 }
 
+/********************** MEDIA QUERIES ********************/
+
 @media (max-width: 960px) {
 /*  For a screen < 960px, this CSS will be read */
-  .container {
+  .wrapper {
     width: 700px;
   }
 }
 @media (max-width: 720px) {
 /*   For a screen < 720px, this CSS will be read */
-  .container {
+  .wrapper {
     width: 500px;
   }
 }
 @media (max-width: 540px) {
 /*  For a screen < 540px, this CSS will be read */
-  .container {
-    width: 300px;
+  .wrapper {
+    width: 400px;
+  }
+  .skills, .services {
+    padding-top: 0px;
+  }
+  h3 {
+    margin-top: 0px;
   }
 }
-
-
-/* .card {
-    width: 200px;
-    border-radius: 3px;
-    box-shadow: 0 0 5px rgb(230,230,230);
-    text-align: center;
-    padding: 20px;
-    border: 1px solid rgb(230,230,230);
-    background-color: white;
-}
-
-.card img {
-    height: 100px;
-}
-
-.cards {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 30px;
-} */
