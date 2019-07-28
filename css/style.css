@@ -73,7 +73,11 @@ b, strong {
 .services p {
   text-align: center;
   color: grey;
-  padding: 0 16px;
+  padding: 0 10px;
+}
+
+.card-service:last-child p {
+  padding-bottom: 10px;
 }
 
 /********************** CONSTRUCTION ********************/
