@@ -32,10 +32,6 @@ a {
   margin: 0 auto;
 }
 
-.text-center {
-  text-align: center;
-}
-
 b, strong {
   font-weight: bold;
 }
@@ -57,19 +53,27 @@ b, strong {
   margin-right: 24px;
 }
 
-.skills, .services {
+.skills {
   padding-top: 8px;
+  padding-bottom: 24px;
 }
 
 .services {
   background-color: grey;
-  padding-bottom: 24px;
+  padding-top: 8px;
+  padding-bottom: 32px;
 }
 
 .services-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+}
+
+.services p {
+  text-align: center;
+  color: grey;
+  padding: 0 16px;
 }
 
 /********************** CONSTRUCTION ********************/
