@@ -30,7 +30,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
-#### Social 👥
+### Social 👥
 
 [![Linkedin](https://img.shields.io/badge/-ltrihan-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/ltrihan/)
 [![Linkedin](https://img.shields.io/badge/-\__ltrihan-black?style=for-the-badge&logo=Twitter&logoColor=ffffff)](https://twitter.com/_ltrihan)
