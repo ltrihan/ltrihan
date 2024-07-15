@@ -1,37 +1,26 @@
-### Languages
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3) 
-![SASS](https://img.shields.io/badge/SASS-cc6699.svg?style=for-the-badge&logo=SASS&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=auto)
+![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS&logoColor=white&logoSize=auto)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=auto)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP&logoColor=white&logoSize=auto)
+![Ruby](https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=Ruby&logoColor=white&logoSize=auto)
+![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=NPM&logoColor=white&logoSize=auto)
+![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack&logoColor=white&logoSize=auto)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white&logoSize=auto)
+![GitLab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=Gitlab&logoColor=white&logoSize=auto)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white&logoSize=auto)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=white&logoSize=auto)
+![AdobeXd](https://img.shields.io/badge/AdobeXd-black?style=for-the-badge&logo=AdobeXd&logoColor=white&logoSize=auto)
+![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&logoSize=auto)
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-EAD41B?style=for-the-badge&logo=javascript&logoColor=000000)
+### Find me on
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=ffffff)
-![Ruby](https://img.shields.io/badge/ruby-A91401?style=for-the-badge&logo=ruby&logoColor=ffffff)
+[![Malt](https://img.shields.io/badge/ltrihan-black?style=for-the-badge&logo=Malt&logoColor=white&logoSize=auto)](https://www.malt.fr/profile/ltrihan)
+[![WordPress](https://img.shields.io/badge/ltrihan-black?style=for-the-badge&logo=WordPress&logoColor=white&logoSize=auto)](https://profiles.wordpress.org/ltrihan/)
+[![Linkedin](https://img.shields.io/badge/ltrihan-black?style=for-the-badge&logo=LinkedIn&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/ltrihan/)
+[![X](https://img.shields.io/badge/__ltrihan-black?style=for-the-badge&logo=X&logoColor=white&logoSize=auto)](https://x.com/_ltrihan)
 
-### Frameworks & Libraries
-
-![NPM](https://img.shields.io/badge/NPM-CC3534.svg?style=for-the-badge&logo=npm&logoColor=ffffff)
-![Webpack](https://img.shields.io/badge/webpack-1C78C0.svg?style=for-the-badge&logo=webpack&logoColor=ffffff)
-
-### Design
-
-![Figma](https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=ffffff)
-![AdobeXD](https://img.shields.io/badge/adobexd-2C001E.svg?style=for-the-badge&logo=adobexd&logoColor=ffffff)
-![AdobePhotoshop](https://img.shields.io/badge/photoshop-03252F.svg?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff)
-
-### Version Control
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=ffffff)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=ffffff)
-
-### IDEs & Editors
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-
-### Social 👥
-
-[![Linkedin](https://img.shields.io/badge/-ltrihan-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/ltrihan/)
-[![Linkedin](https://img.shields.io/badge/-\__ltrihan-black?style=for-the-badge&logo=Twitter&logoColor=ffffff)](https://twitter.com/_ltrihan)
-
+</div>
