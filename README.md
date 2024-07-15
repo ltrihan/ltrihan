@@ -1,6 +1,6 @@
 <div align="center">
   
-![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=WordPress&logoColor=white&logoSize=auto)
+[![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=WordPress&logoColor=white&logoSize=auto)](https://profiles.wordpress.org/ltrihan/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=auto)
