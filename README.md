@@ -1,7 +1,7 @@
 <div align="">
 
 <h2 align="">Hi, I'm Loïc Trihan 👋🏻</h2>
-<h2 align="">A french WordPress theme developer / front-end developer</h2>
+<h2 align="">A french WordPress theme developer / web developer</h2>
 
 <h3 align="">CMS / Frameworks</h3>
   
